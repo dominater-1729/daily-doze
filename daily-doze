@@ -5,3 +5,7 @@
 // mongorestore --uri mongodb+srv://shubhamjr:shubhamjr@trial.nihmrhd.mongodb.net/?retryWrites=true&w=majority&appName=trial --db admin --drop admin
 
 // mongodump --uri=mongodb+srv://kundan:Oy6IP3Es6iSpAYsX@cluster0.c8z5ezw.mongodb.net/prayerQuest
+
+// cron job https://github.com/dominater-1729/mongo-full-backup-cron
+
+// multer postmotam
