@@ -1,1 +1,7 @@
 1. nodejs worker node, worker process , worker pool, spawn , fork etc.
+
+// mongodb+srv://shubhamjr:shubhamjr@trial.nihmrhd.mongodb.net/?retryWrites=true&w=majority&appName=trial
+
+// mongorestore --uri mongodb+srv://shubhamjr:shubhamjr@trial.nihmrhd.mongodb.net/?retryWrites=true&w=majority&appName=trial --db admin --drop admin
+
+// mongodump --uri=mongodb+srv://kundan:Oy6IP3Es6iSpAYsX@cluster0.c8z5ezw.mongodb.net/prayerQuest
